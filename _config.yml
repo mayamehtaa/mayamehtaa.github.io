@@ -1,0 +1,8 @@
+name: Hello!!
+description: A Home for Maya Online
+baseurl: '/Alpha-Jekyll-Theme'
+
+url: "mayamehtaa.github.io"
+
+paginate: 10
+
